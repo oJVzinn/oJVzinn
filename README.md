@@ -1,4 +1,4 @@
-### Olá, meu nome é João Victor e tenho 16 anos. Programo cerca de 1 ano e 7 meses em Java, e 3 meses em Koltin. Gosto bastante em aprender novas coisas, e estou sempre sujeito a novos desafios.
+### Olá, meu nome é João Victor e tenho 16 anos. Programo cerca de 1 ano e 7 meses em Java, e 3 meses em Koltin. Gosto bastante de aprender novas coisas, e estou sempre sujeito a novos desafios.
 <div style="display: inline_block">
   <a href="https://github.com/oJVzinn">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oJVzinn&show_icons=true&theme=highcontrast&count_private=true"/>
