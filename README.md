@@ -1,4 +1,4 @@
-### Olá, meu nome é João Victor e tenho 16 anos. Programo cerca de 1 ano e 7 meses em Java, e 3 meses em Koltin. Gosto bastante de aprender novas coisas, e estou sempre sujeito a novos desafios.
+### Olá, meu nome é João Victor e tenho 17 anos. Programo em cerca de 2 anos em Java, e 4 meses em Koltin. Gosto bastante de aprender novas coisas, e estou sempre sujeito a novos desafios.
 <div style="display: inline_block">
   <a href="https://github.com/oJVzinn">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oJVzinn&show_icons=true&theme=highcontrast&count_private=true"/>
@@ -16,4 +16,5 @@
   <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="SQLite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
   <img align="center" alt="Redis" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg">
+  <img align="center" alt="Hikari" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hikari/hikari-original.svg">
 </div>
