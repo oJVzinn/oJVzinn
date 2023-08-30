@@ -16,5 +16,5 @@
   <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="SQLite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
   <img align="center" alt="Redis" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg">
-  <img align="center" alt="Hikari" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hikari/hikari-original.svg">
+  <img align="center" alt="Hikari" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hikaricp/hikaricp-original.svg">
 </div>
