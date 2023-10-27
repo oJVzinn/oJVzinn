@@ -1,5 +1,5 @@
 <h1  style="color: whitesmoke">Olá, meu nome é João Victor e tenho 17 anos. Programo em cerca de 2 anos em Java, e 4 meses em Koltin. Gosto bastante de aprender novas coisas, e estou sempre sujeito a novos desafios.</h1><br>
-<div style="display: inline" align=center>
+<div style="display: inline_block" align=center>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oJVzinn&show_icons=true&theme=highcontrast&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oJVzinn&layout=compact&theme=highcontrast"/>
 </div>
