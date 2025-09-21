@@ -1,4 +1,4 @@
-<h1  style="color: whitesmoke">Olá, me chamo João Victor e tenho 19 anos. Programo em cerca de 5 anos em Java e 1 ano com Java Script. Gosto bastante de aprender novas coisas, e estou sempre sujeito a novos desafios.</h1><br>
+<h1  style="color: whitesmoke">Olá, me chamo João Victor e tenho 19 anos. Programo a cerca de 5 anos em Java e 1 ano com Java Script. Gosto bastante de aprender novas coisas, e estou sempre sujeito a novos desafios.</h1><br>
 <div style="display: inline_block" align=center>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oJVzinn&show_icons=true&theme=highcontrast&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oJVzinn&layout=compact&theme=highcontrast"/>
